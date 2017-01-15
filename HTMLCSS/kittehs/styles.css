@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: helvetica;
+  background-color: #595959;
+  }
+
+#top-content {
+  font-size: 32px;
+  padding: 0;
+  margin:0;
+  
+  background-color: #adadad;
+}
+
+h1 {
+   color: black;
+   -webkit-text-fill-color: black;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
+}
+#main-content {
+  background-color:
+}
+
+p {
+    background-color: #adadad;
+}
+
+img {
+    border: 1px solid #000;
+    image-orientation: centre;
+}
+
+p {
+    color: black;
+}
+div p {
+    color: red;
+}
